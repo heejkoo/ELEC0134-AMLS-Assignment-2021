@@ -2,6 +2,8 @@
 
 This repository provides code and assignment for **ELEC0134 AMLS Assignment 20-21** of **17061069**.
 
+Please note that code from here split the data to train, validation and test set sequentially because the zip file google drive did not divide the dataset to train and test set initially.
+
 ### 0. Preparation
 #### 1) Required File
 Please download the file from [here](https://sourceforge.net/projects/dclib/files/dlib/v18.10/shape_predictor_68_face_landmarks.dat.bz2/download) 
